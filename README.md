@@ -55,6 +55,7 @@ Make a program that creates two variables: an int and a double.  Follow these in
 6. Run myour program and observe the result.
 
 Is it possible to store a double into an int?  Is it possible to store an int into a double?  Explain.
+It is possible to star an int into a double because it will just turn into an int. You cannot store a double into an int because it is not a single number/integer
 
 ## Problem1
 Write a program that takes a single integer and stores it in a variable. Your program should increase the value of this variable by one four times, printing "number is now " followed by its value each time, then decrease it by one four times, again printing "number is now " and the value each time. You must use unary operators to increase/decrease the value of the variable to receive full credit for this assignment.

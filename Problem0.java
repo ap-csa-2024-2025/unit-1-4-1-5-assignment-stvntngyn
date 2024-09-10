@@ -5,5 +5,8 @@ public class Problem0
     // insert code here
     double value = 1;
     System.out.println(value);
+
+    int other = 1.0;
+    System.out.println(other);
   }
 }
